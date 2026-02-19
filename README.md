@@ -120,7 +120,7 @@ This improves candidate ranking accuracy compared to keyword-based systems.
 - Protected database access
 -
 
-```
+---
 
 
 ## 🚀 Deployment
@@ -157,8 +157,8 @@ https://hirely-ai-recruitment-platform.vercel.app
 
 If you would like to discuss this project or potential opportunities:
 
-LinkedIn: (Add your LinkedIn link)  
-Email: (Add professional email)
+LinkedIn: www.linkedin.com/in/pritiipatel
+Email: pritiipatel27@gmail.com
 
 ---
 
