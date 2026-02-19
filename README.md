@@ -118,23 +118,7 @@ This improves candidate ranking accuracy compared to keyword-based systems.
 - Secure environment variables
 - Backend-controlled AI processing
 - Protected database access
-
----
-
-## 📸 Screenshots
-
-### Dashboard
-![Dashboard](screenshots/dashboard.png)
-
-### Recruiter View
-![Recruiter View](screenshots/recruiter.png)
-
-### Analysis 
-![Analysis](screenshots/analysis.png)
-
-### AI Match Score
-![AI Match](screenshots/matching.png)
-
+-
 
 ```
 
