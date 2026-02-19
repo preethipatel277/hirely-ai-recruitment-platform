@@ -135,9 +135,9 @@ This improves candidate ranking accuracy compared to keyword-based systems.
 ### AI Match Score
 ![AI Match](screenshots/matching.png)
 
+
 ```
 
----
 
 ## 🚀 Deployment
 
